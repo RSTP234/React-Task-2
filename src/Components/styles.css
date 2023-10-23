@@ -1,0 +1,71 @@
+body{
+    background-image: linear-gradient(to right,deepskyblue,aqua,cyan,mediumspringgreen,springgreen);
+    width: 98vw;
+    height: 75vh;
+}
+
+#calci{
+    width: 20%;
+    margin: auto;
+    margin-top: 5%;
+    background-color:rgb(0, 0, 69);
+    border-radius: 10px;
+}
+
+.Comps{
+    height: 250px;
+    padding: 20px;
+}
+
+#screen{
+    background-color:rgb(50, 50, 200);
+    border-radius: 10px 10px 0  0;
+    padding: 10px;
+}
+
+table{
+    display: inline-table;
+    height: 100%;
+}
+
+#table1{
+    width: 70%;
+    color:aliceblue;
+}
+
+#table2{
+    width: 20%;
+    color: turquoise;
+    height: 100%;
+    vertical-align: top;
+}
+
+#expression{
+    height: 150px;
+    padding-top: 20px;
+    color: white;
+    text-align: end;
+    font-size: xx-large;
+    font-weight: normal;
+}
+
+#result{
+    margin-top: 10px;
+    vertical-align: bottom;
+    text-align: end;
+    color: whitesmoke;
+    font-size: medium;
+    font-weight: bold;
+}
+
+button{
+    background: transparent;
+    border: 0;
+    width: 100%;
+    font-size: large;
+    color: aliceblue;
+}
+
+.symbols{
+    color: turquoise;
+}
